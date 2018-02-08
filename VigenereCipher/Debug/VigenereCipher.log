@@ -1,6 +1,5 @@
 ﻿  VigenereCipher.cpp
-c:\users\wasd1\source\repos\vigenerecipher\vigenerecipher\vigenerecipher.cpp(7): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-c:\users\wasd1\source\repos\vigenerecipher\vigenerecipher\vigenerecipher.cpp(16): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\wasd1\source\repos\vigenerecipher\vigenerecipher\vigenerecipher.cpp(34): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\wasd1\source\repos\vigenerecipher\vigenerecipher\vigenerecipher.cpp(53): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\wasd1\source\repos\vigenerecipher\vigenerecipher\vigenerecipher.cpp(9): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\wasd1\source\repos\vigenerecipher\vigenerecipher\vigenerecipher.cpp(28): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\wasd1\source\repos\vigenerecipher\vigenerecipher\vigenerecipher.cpp(66): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
   VigenereCipher.vcxproj -> C:\Users\wasd1\source\repos\VigenereCipher\Debug\VigenereCipher.exe
